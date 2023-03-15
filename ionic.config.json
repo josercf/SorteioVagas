@@ -1,0 +1,7 @@
+{
+  "name": "SorteioVagas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
